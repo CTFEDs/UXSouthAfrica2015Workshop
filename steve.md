@@ -1,5 +1,5 @@
 Pattern | Problem | Improvement | Workshop Activity
---- | --- | ---
+--- | --- | --- | ---
 Huge images (or auto-playing videos), especially in the header / hero section. | Uses up lots of data: expensive and slow. | Heavily optimise images, don't auto-play video. Be aware of the cost (in data and time) of your images. | Use image optimisation tools. Get ideas from Lara Hogan's [Optimizing Images chapter of Designing for Performance](http://designingforperformance.com/optimizing-images)
 Parallax | Janky: processor-intensive, especially on mobile.  | Don't use it. Have static images breaking up the content instead. | Make a plan for ditching parallax.
 Off-canvas navigation | Hides your content from users, removes information scent. | Review your IA, use a different style of navigation. | Review the IA, sketch new navigation styles.
