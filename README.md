@@ -8,6 +8,6 @@ One of the reasons to do a workshop rather than a talk is to get more face-to-fa
 
 ## Template for gathering ideas
 
-Pattern | Improvement | Workshop Activity
---- | --- | ---
-Description of the pattern, maybe with links.  | Details of how to improve it. | What activity we'll do to explore the improvement.
+Pattern | Problem | Improvement | Workshop Activity
+--- | --- | --- | ---
+Description of the pattern, maybe with links. | How this pattern can be not great. | Details of how to improve it. | What activity we'll do to explore the improvement.
