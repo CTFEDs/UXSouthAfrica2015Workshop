@@ -1,7 +1,7 @@
 Pattern | Problem | Improvement | Workshop Activity
 --- | --- | --- | ---
 Huge images (or auto-playing videos), especially in the header / hero section. | Uses up lots of data: expensive and slow. | Heavily optimise images, don't auto-play video. Be aware of the cost (in data and time) of your images. | Use image optimisation tools. Get ideas from Lara Hogan's [Optimizing Images chapter of Designing for Performance](http://designingforperformance.com/optimizing-images)
-Parallax | Janky: processor-intensive, especially on mobile.  | Don't use it. Have static images breaking up the content instead. | Make a plan for ditching parallax.
+Parallax | Janky: processor-intensive, especially on mobile. Causes scrolling issues.  | Don't use it. Have static images breaking up the content instead. | Make a plan for ditching parallax.
 Off-canvas navigation | Hides your content from users, removes information scent. | Review your IA, use a different style of navigation. | Review the IA, sketch new navigation styles.
 Low contrast text | Not very readable or legible in low light, or for users with poorer eyesight. | Up the contrast. | Use some colour contrast checking tools. (e.g. [Lea Verou's contrast ratio](http://leaverou.github.io/contrast-ratio/), )
 Carousels, especially auto-playing ones. | People often ignore them (like they do with ad banner blindness), seldom interact with them. Many have accessibility issues. | [Don't use them!](http://shouldiuseacarousel.com/) Or at least let the user move the slides, and [provide labels that give them a reason to use it](http://uxmovement.com/navigation/why-users-arent-clicking-your-home-page-carousel/). | Make a plan for how to ditch your carousels, and how to explain it to the bosses.
