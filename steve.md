@@ -17,7 +17,9 @@ Modal/overlay | Terrible for keyboard users. Impede flow through site. (Ok for i
 Sharing buttons | Terrible for performance. Add clutter. Hardly anyone uses them | Remove them | Provide alternatives such as simple links to social media platforms with calls to action.
 Text over images | Produces unexpected results if length is not ideal. Obscures images. Tricky with responsive design. | Redesign image/text layout |
 Fixed positioning | Performance killer if you are using js. Interferes with scrolling. Can take up a lot of screen real estate especially on mobile.| Use natural element flow | Remove fixed positioning
-Hiding information behind hover states (or even worse, clickable js elements) | Makes information inaccessible to non-mouse users | Don't hide information | Consider why info needs to hidden. Is it really necessary to have?
+Hiding information behind hover states (or even worse, clickable js elements) | Makes information inaccessible to non-mouse users | Don't hide information | Consider why info needs to be hidden. Is it really necessary to have?
 Pagination | ??? | ??? | ???
 Infinite scrolling | ??? | ??? | ???
+Forms | ??? | ??? | ???
+Login | ??? | ??? | ???
 Responsive Web Design | :troll: | Make separate sites for: mobile, tablet, desktop, watch, and fridge.  | Figure out that this one is a joke.
