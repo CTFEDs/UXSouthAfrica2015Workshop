@@ -10,4 +10,14 @@ Relying on custom fonts in your design | Custom fonts can be slow to load, or fa
 Loading screens | Hides a bigger problem: your site is too slow! | Conduct a thorough performance review of your site. | Use [WebPageTest](http://www.webpagetest.org/) and [Google's Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) to get some ideas for improvements.
 Single Page websites | Can result in large, heavy, pages. That means slow and expensive, especially on mobile. More difficult for people to share a specific part of the page. | Split it into several pages. | Make a plan for splitting it into several pages.
 Ghost buttons | They don't offer proper affordance as a button, and often aren't visually distinct from other interface elements. | Make buttons look like buttons. | Redesign some existing buttons in your work.
+Thinking in pages | Focus shits to look and feel as opposed to content | Concentrate on systems design with reusable modular components | Concentrate on modular design
+Static prototypes | Still thinking in pages and a print-like mindset | Move to in-browser design, utilizing rapid and style prototyping | Use tools like Invision. Use HTML.
+Over-reliance on grid systems | Generic grids (Boostrap, Foundation, etc) are neither a good representation of a site's content nor its design. | Use content out layouts | ????
+Modal/overlay | Terrible for keyboard users. Impede flow through site. (Ok for image galleries?)| ??? | ???
+Sharing buttons | Terrible for performance. Add clutter. Hardly anyone uses them | Remove them | Provide alternatives such as simple links to social media platforms with calls to action.
+Text over images | Produces unexpected results if length is not ideal. Obscures images. Tricky with responsive design. | Redesign image/text layout |
+Fixed positioning | Performance killer if you are using js. Interferes with scrolling. Can take up a lot of screen real estate especially on mobile.| Use natural element flow | Remove fixed positioning
+Hiding information behind hover states (or even worse, clickable js elements) | Makes information inaccessible to non-mouse users | Don't hide information | Consider why info needs to hidden. Is it really necessary to have?
+Pagination | ??? | ??? | ???
+Infinite scrolling | ??? | ??? | ???
 Responsive Web Design | :troll: | Make separate sites for: mobile, tablet, desktop, watch, and fridge.  | Figure out that this one is a joke.
