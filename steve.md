@@ -12,14 +12,14 @@ Single Page websites | Can result in large, heavy, pages. That means slow and ex
 Ghost buttons | They don't offer proper affordance as a button, and often aren't visually distinct from other interface elements. | Make buttons look like buttons. | Redesign some existing buttons in your work.
 Thinking in pages | Focus shits to look and feel as opposed to content | Concentrate on systems design with reusable modular components | Concentrate on modular design
 Static prototypes | Still thinking in pages and a print-like mindset | Move to in-browser design, utilizing rapid and style prototyping | Use tools like Invision. Use HTML.
-Over-reliance on grid systems | Generic grids (Boostrap, Foundation, etc) are neither a good representation of a site's content nor its design. | Use content out layouts | ????
-Modal/overlay | Terrible for keyboard users. Impede flow through site. (Ok for image galleries?)| ??? | ???
-Sharing buttons | Terrible for performance. Add clutter. Hardly anyone uses them | Remove them | Provide alternatives such as simple links to social media platforms with calls to action.
+Over-reliance on grid systems | Generic grids (Boostrap, Foundation, etc) are neither a good representation of a site's content nor its design. | Consider content out layouts | ????
+Modal/overlay | Terrible for keyboard users. Impede flow through site. (Ok for image galleries?)| In almost all cases, there is no need to force users into specific actions. Rather, show the content that you were going to put into an overlay within the page  | Consider collapsible UI elements or dynamic inline elements.
 Text over images | Produces unexpected results if length is not ideal. Obscures images. Tricky with responsive design. | Redesign image/text layout |
-Fixed positioning | Performance killer if you are using js. Interferes with scrolling. Can take up a lot of screen real estate especially on mobile.| Use natural element flow | Remove fixed positioning
+Fixed positioning | Performance killer if you are using js. Interferes with scrolling. Can take up a lot of screen real estate especially on mobile.| Use natural element flow | Remove fixed positioning (especially on mobile).
 Hiding information behind hover states (or even worse, clickable js elements) | Makes information inaccessible to non-mouse users | Don't hide information | Consider why info needs to be hidden. Is it really necessary to have?
-Pagination | ??? | ??? | ???
-Infinite scrolling | ??? | ??? | ???
+Typography | Too many font-size and family declarations | Very hard to maintain | Keep font variations to a minimum. Use a typographic scale like [Modular scale](http://www.modularscale.com/) or [Type scale](http://type-scale.com/)
+Pagination | Large datasets can lead to confusion (where am I?). | Only use when it is not possible to display all the data on a single page/screen or when the dataset is in some way ordered. Do not use when you don't want the user to pause for navigating to the next page. | ???
+Infinite scrolling | Removes sense of control from user (no endpoint). Not easy to discern information. Inefficient. Poor performance. | Consider cumulative search filters  | Allow user to narrow down interest/search. See [So You Think You’ve Built a Good Infinite Scroll](http://adrianroselli.com/2014/05/so-you-think-you-built-good-infinite.html)
 Forms | ??? | ??? | ???
 Login | ??? | ??? | ???
 Responsive Web Design | :troll: | Make separate sites for: mobile, tablet, desktop, watch, and fridge.  | Figure out that this one is a joke.

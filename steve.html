@@ -1,5 +1,5 @@
 <!DOCTYPE html><html><head><meta charset="utf-8"><style>body {
-  width: 45em;
+  width: 60em;
   border: 1px solid #ddd;
   outline: 1300px solid #fff;
   margin: 16px auto;
@@ -879,7 +879,7 @@ body .markdown-body
 </tr>
 <tr>
 <td>Parallax</td>
-<td>Janky: processor-intensive, especially on mobile.</td>
+<td>Janky: processor-intensive, especially on mobile. Causes scrolling issues.</td>
 <td>Don't use it. Have static images breaking up the content instead.</td>
 <td>Make a plan for ditching parallax.</td>
 </tr>
@@ -931,6 +931,80 @@ body .markdown-body
 <td>They don't offer proper affordance as a button, and often aren't visually distinct from other interface elements.</td>
 <td>Make buttons look like buttons.</td>
 <td>Redesign some existing buttons in your work.</td>
+</tr>
+<tr>
+<td>Thinking in pages</td>
+<td>Focus shits to look and feel as opposed to content</td>
+<td>Concentrate on systems design with reusable modular components</td>
+<td>Concentrate on modular design</td>
+</tr>
+<tr>
+<td>Static prototypes</td>
+<td>Still thinking in pages and a print-like mindset</td>
+<td>Move to in-browser design, utilizing rapid and style prototyping</td>
+<td>Use tools like Invision. Use HTML.</td>
+</tr>
+<tr>
+<td>Over-reliance on grid systems</td>
+<td>Generic grids (Boostrap, Foundation, etc) are neither a good representation of a site's content nor its design.</td>
+<td>Consider content out layouts</td>
+<td>????</td>
+</tr>
+<tr>
+<td>Modal/overlay</td>
+<td>Terrible for keyboard users. Impede flow through site. (Ok for image galleries?)</td>
+<td>In almost all cases, there is no need to force users into specific actions. Rather, show the content that you were going to put into an overlay within the page</td>
+<td>Consider collapsible UI elements or dynamic inline elements.</td>
+</tr>
+<tr>
+<td>Text over images</td>
+<td>Produces unexpected results if length is not ideal. Obscures images. Tricky with responsive design.</td>
+<td>Redesign image/text layout</td>
+<td></td>
+</tr>
+<tr>
+<td>Fixed positioning</td>
+<td>Performance killer if you are using js. Interferes with scrolling. Can take up a lot of screen real estate especially on mobile.</td>
+<td>Use natural element flow</td>
+<td>Remove fixed positioning (especially on mobile).</td>
+</tr>
+<tr>
+<td>Hiding information behind hover states (or even worse, clickable js elements)</td>
+<td>Makes information inaccessible to non-mouse users</td>
+<td>Don't hide information</td>
+<td>Consider why info needs to be hidden. Is it really necessary to have?</td>
+</tr>
+<tr>
+<td>Typography</td>
+<td>Too many font-size and family declarations</td>
+<td>Very hard to maintain</td>
+<td>Keep font variations to a minimum. Use a typographic scale like <a href="http://www.modularscale.com/">Modular scale</a> or <a href="http://type-scale.com/">Type scale</a>
+</td>
+</tr>
+<tr>
+<td>Pagination</td>
+<td>Large datasets can lead to confusion (where am I?).</td>
+<td>Only use when it is not possible to display all the data on a single page/screen or when the dataset is in some way ordered. Do not use when you don't want the user to pause for navigating to the next page.</td>
+<td>???</td>
+</tr>
+<tr>
+<td>Infinite scrolling</td>
+<td>Removes sense of control from user (no endpoint). Not easy to discern information. Inefficient. Poor performance.</td>
+<td>Consider cumulative search filters</td>
+<td>Allow user to narrow down interest/search. See <a href="http://adrianroselli.com/2014/05/so-you-think-you-built-good-infinite.html">So You Think You’ve Built a Good Infinite Scroll</a>
+</td>
+</tr>
+<tr>
+<td>Forms</td>
+<td>???</td>
+<td>???</td>
+<td>???</td>
+</tr>
+<tr>
+<td>Login</td>
+<td>???</td>
+<td>???</td>
+<td>???</td>
 </tr>
 <tr>
 <td>Responsive Web Design</td>
