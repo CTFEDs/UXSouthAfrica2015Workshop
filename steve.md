@@ -20,6 +20,7 @@ Hiding information behind hover states (or even worse, clickable js elements) | 
 Typography | Too many font-size and family declarations | Very hard to maintain | Keep font variations to a minimum. Use a typographic scale like [Modular scale](http://www.modularscale.com/) or [Type scale](http://type-scale.com/)
 Pagination | Large datasets can lead to confusion (where am I?). | Only use when it is not possible to display all the data on a single page/screen or when the dataset is in some way ordered. Do not use when you don't want the user to pause for navigating to the next page. | ???
 Infinite scrolling | Removes sense of control from user (no endpoint). Not easy to discern information. Inefficient. Poor performance. | Consider cumulative search filters  | Allow user to narrow down interest/search. See [So You Think You’ve Built a Good Infinite Scroll](http://adrianroselli.com/2014/05/so-you-think-you-built-good-infinite.html)
-Forms | ??? | ??? | ???
-Login | ??? | ??? | ???
+Animation |||
+Forms | What element to use when. "Designed" inputs. Inappropriate inputs. | ??? | ???
+Login | forcing login. Social login. Which one did I use. What if one ceases to exist. Only Facebook / Twitter, etc. | ??? | ???
 Responsive Web Design | :troll: | Make separate sites for: mobile, tablet, desktop, watch, and fridge.  | Figure out that this one is a joke.
