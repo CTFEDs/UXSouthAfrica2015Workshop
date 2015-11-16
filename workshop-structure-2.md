@@ -1,32 +1,38 @@
+Problems, Patterns, Principles, Solutions.
+
 ## Connections
 
-* To existing knowledge
-  * Make UX principles list
-* To learning goals
-  * Fix your specific stuff
-  * Principles to apply
+* Identify your specific **Problems** and **Patterns**.
+* Make your own list of Future Friendly UX **Principles**.
+* Start sketching out **Solutions**.
 
 ## Warm up
 
 * What was the first thing you worked on?
-* What are we doing now that will be outdted soon?
+* What are we doing now that will need updating soon?
 
 ## Arriving
 
-* **Turn and talk**: share your warm up answers.
+* **Turn and talk**: share your warm up answers. Write down other people's answers on sticky notes and take them back to your table.
 
 ## 1pm
 
 * **Table talk**: on big bits of paper, write down changes in the tech landscape in the past few years.
+  * e.g. quantity of devices, screen sizes, operating system and browser diversity, people using the web, quality of network connection, mobile-only users.
 * **Presentation**: Future Friendly User Experience.
   * About 15 minutes.
   * Guidelines will be up on the wall, to be revealed later.
+
+## Break
+
+* **Discussion**: What's the most important Future Friendly principle?
 
 ## 2pm
 
 * **Gallery Walk**: walk around the room and write on the posters.
   * Problems and patterns from the Table Talk.
   * Future Friendly principles from Presentation.
+* **Summarise**: make summaries of the posters for your table. One person at your table will present to the room: your table's favourite thing from each poster.
 
 ## Break
 
@@ -34,15 +40,25 @@
 
 ## 3pm-ish
 
-**Sketch your Future Friendly UX patterns**
+### Sketch your Future Friendly UX Solutions
 
-* **Diverge** thinking: write down lots of ideas. Focus on quantity rather than quality.
+### Diverge
+
+* On your own, write down lots of ideas. Focus on **quantity** rather than **quality**.
+
+## Break
+
+* Find a person at another table and tell them about your favourite idea.
 
 ## 4pm
 
-* **Converge** thinking: start narrowing down ideas. Group ideas by theme.
+### Converge
+
+* As a table, start narrowing down ideas. Vote for the best idea, and work on it together.
+* What **Future Friendly Principles** are you using?
 
 ## Leaving
 
 * **Card Exchange: SMART goal**: find a buddy. On the front of a card, write down a SMART goal. On the back of it, write down your contact details. Swap your card with your buddy's.
 * **Most Import Thing**: on the poster by the door, write down the most import thing you learned today.
+* **Handout**: pick up a copy of the Problems, Patterns, Principles, Solutions handout on your way out.

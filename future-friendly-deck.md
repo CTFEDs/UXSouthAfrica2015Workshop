@@ -4,6 +4,38 @@
 
 ---
 
+# Goal for the day
+
+* Identify your specific **Problems** and **Patterns**.
+* Make your own list of Future Friendly UX **Principles**.
+* Start sketching out **Solutions**.
+
+---
+
+# Problems
+
+^ The assumptions we make that date, sometimes very quickly.
+
+---
+
+# Patterns
+
+^ The patterns that show these assumptions.
+
+---
+
+# Principles
+
+^ Principles we can follow to avoid the Problems and Patterns.
+
+---
+
+# Solutions
+
+^ Specific, practical, new Patterns we can use to avoid these Problems.
+
+---
+
 # What is Future Friendly UX design?
 
 The **quantity** and **diversity** of connected **devices**, and the **people** that use them, is increasing. We can deal with this exciting, overwhelming, world by:
@@ -45,3 +77,42 @@ The **quantity** and **diversity** of connected **devices**, and the **people** 
 
 * long term approach
 * guided by principles
+
+---
+
+# An example
+
+---
+
+# Problem
+
+# Assumptions about user attention span
+
+---
+
+# Pattern
+
+# Carousel ಠ_ಠ
+
+---
+
+# Principle
+
+# Focus
+
+---
+
+# Solution
+
+# Single hero image
+# Random on page load
+
+---
+
+# Solutions
+
+| Diverge | Converge |
+| --- | --- |
+| **&#8599;** | **&#8600;** |
+| Create Choices | Make Choices |
+| **&#8600;** | **&#8599;** |
