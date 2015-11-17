@@ -38,13 +38,29 @@
 
 # What is Future Friendly UX design?
 
-The **quantity** and **diversity** of connected **devices**, and the **people** that use them, is increasing. We can deal with this exciting, overwhelming, world by:
+---
+
+![](fflogo.png)
+
+^ Big names in Mobile, Responsive, UX (Luke Wroblewski, Scott Jenson, Brad Frost, Jeremy Keith, Lyza D. Gardner, Scott Jehl, Stephanie Rieger, Josh Clark, ...)
+
+---
+
+![](devices.jpg)
+
+^ This is the world now
+
+---
+
+The **quantity** and **diversity** of connected **devices**, and the **people** that use them, is increasing.
 
 ---
 
 1. acknowledging and embracing unpredictability;
 * thinking and behaving in a [future friendly]((http://futurefriendlyweb.com/)) way;
 * helping others to do the same.
+
+^ We can deal with this exciting, overwhelming, world by:
 
 ---
 
