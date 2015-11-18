@@ -4,9 +4,9 @@
 
 - [x] Update outline
 - [x] Arrival outline
-- [ ] ping Theo re food and drink, names of participants
+- [x] ping Theo re food and drink, names of participants
 - [x] Slide to explain converge / diverge
-- [ ] Summary activity for gallery walk
+- [x] Summary activity for gallery walk
 
 ## Justin
 
