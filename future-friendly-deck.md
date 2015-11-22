@@ -4,17 +4,34 @@
 
 ---
 
-# Goal for the day
+### Goals for the day
 
-* Identify your specific **Problems** and **Patterns**.
-* Make your own list of Future Friendly UX **Principles**.
-* Start sketching out **Solutions**.
+## Identify your specific **Problems** and **Patterns**
+
+---
+
+### Goals for the day
+
+## Make your own list of Future Friendly UX **Principles**
+
+---
+
+### Goals for the day
+
+## Start sketching out **Solutions**
+
+---
+
+### Agenda
+
+## Breaks at 2pm, 3pm, 4pm
 
 ---
 
 # Problems
 
 ^ The assumptions we make that date, sometimes very quickly.
+The things we don't know.
 
 ---
 
@@ -27,6 +44,7 @@
 # Principles
 
 ^ Principles we can follow to avoid the Problems and Patterns.
+Not rules: guidelines.
 
 ---
 
@@ -36,11 +54,14 @@
 
 ---
 
-# What is Future Friendly UX design?
+## What is Future Friendly UX design?
+
+^ Being careful about the assumptions we make
+Designing for change, unknowns
 
 ---
 
-![](fflogo.png)
+![200%](fflogo.png)
 
 ^ Big names in Mobile, Responsive, UX (Luke Wroblewski, Scott Jenson, Brad Frost, Jeremy Keith, Lyza D. Gardner, Scott Jehl, Stephanie Rieger, Josh Clark, ...)
 
@@ -48,31 +69,56 @@
 
 ![](devices.jpg)
 
+## futurefriend.ly
+
 ^ This is the world now
 
 ---
 
-The **quantity** and **diversity** of connected **devices**, and the **people** that use them, is increasing.
+## The **quantity** and **diversity** of connected **devices** is increasing.
 
 ---
 
-1. acknowledging and embracing unpredictability;
-* thinking and behaving in a [future friendly]((http://futurefriendlyweb.com/)) way;
-* helping others to do the same.
+## The quantity and diversity of connected devices, **and the people that use them**, is increasing.
+
+^ New audiences
+Never been connected before
+Mobile-only
+
+---
+
+## 1. acknowledge and embrace unpredictability
 
 ^ We can deal with this exciting, overwhelming, world by:
 
 ---
 
-## Focus
-
-^ * more people, more channels
-* less time, less attention
-* relevant, high quality, content, delivered fast.
+## 2. think and behave in a future friendly way
 
 ---
 
-## Content
+## 3. help others to do the same.
+
+---
+
+## Future Friendly
+## Principles
+
+---
+
+### Future Friendly Principles
+
+# Focus
+
+^ * more people, more channels
+* less time, less attention
+* relevant, high quality, content, delivered fast
+
+---
+
+### Future Friendly Principles
+
+# Content
 
 ^ * it could go anywhere
 * start with well-structured HTML
@@ -81,54 +127,61 @@ The **quantity** and **diversity** of connected **devices**, and the **people** 
 
 ---
 
-## Devices
+### Future Friendly Principles
 
-* make some best guesses
+# Devices
+
+^ * make some best guesses
 * high-level, good-enough, classifications for devices
 * play to the strengths and unique capabilities of devices
 
 ---
 
-## It's a Mission
+# It's a Mission
 
-* long term approach
+^ * long term approach
 * guided by principles
 
 ---
 
-# An example
+### Future Friendly UX Design
+
+## An example
+
+^ How we're going to do it today
 
 ---
 
-# Problem
+### Problem
 
-# Assumptions about user attention span
+## Assumptions about
+## user's interest
 
----
-
-# Pattern
-
-# Carousel ಠ_ಠ
+^ in *all* our stuff
 
 ---
 
-# Principle
+### Pattern
 
-# Focus
+## Carousel ಠ_ಠ
 
----
-
-# Solution
-
-# Single hero image
-# Random on page load
+^ Probably auto-playing
 
 ---
 
-# Solutions
+### Principle
 
-| Diverge | Converge |
-| --- | --- |
-| **&#8599;** | **&#8600;** |
-| Create Choices | Make Choices |
-| **&#8600;** | **&#8599;** |
+## Focus
+
+---
+
+![](divergeconverge.jpg)
+
+---
+
+### Solution
+
+## Single hero image
+## Random on page load
+
+---

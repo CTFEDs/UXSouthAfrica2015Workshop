@@ -17,18 +17,7 @@ Problems, Patterns, Principles, Solutions.
 
 ## 1pm
 
-* **Table talk**: on big bits of paper, write down changes in the tech landscape in the past few years. Guidelines will be up on the wall, to be revealed later. Examples:
-  * **mobile** as a **thing**;
-  * quantity of devices;
-  * range of screen sizes;
-  * diversity of operating system and browser diversity;
-  * number of people using the web;
-  * the varying quality of network connection;
-  * the number of mobile-only users;
-  * the role of our devices in our lives ("look up!" :D);
-  * the advertising ecosystem;
-  * native vs web;
-  * responsive web design.
+* **Table talk**: on big bits of paper, write down changes in the tech landscape in the past few years. Guidelines will be up on the wall, to be revealed later.
 * **Presentation**: Future Friendly User Experience.
   * About 15 minutes.
 
@@ -63,7 +52,7 @@ Problems, Patterns, Principles, Solutions.
 
 ### Converge
 
-* As a table, start narrowing down ideas. Vote for the best idea, and work on it together.
+* As a table, start narrowing down ideas. Vote for your favourite idea, and work on it together.
 * What **Future Friendly Principles** are you using?
 
 ## Leaving
