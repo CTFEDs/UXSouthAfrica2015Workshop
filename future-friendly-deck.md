@@ -44,7 +44,7 @@ The things we don't know.
 # Principles
 
 ^ Principles we can follow to avoid the Problems and Patterns.
-Not rules: guidelines.
+Not rules: guidelines and suggestions.
 
 ---
 
@@ -61,9 +61,10 @@ Designing for change, unknowns
 
 ---
 
-![200%](fflogo.png)
+![150%](fflogo.png)
 
 ^ Big names in Mobile, Responsive, UX (Luke Wroblewski, Scott Jenson, Brad Frost, Jeremy Keith, Lyza D. Gardner, Scott Jehl, Stephanie Rieger, Josh Clark, ...)
+This png is not future friendly :)
 
 ---
 
@@ -166,6 +167,7 @@ Mobile-only
 ## Carousel ಠ_ಠ
 
 ^ Probably auto-playing
+Probably 5+ slides
 
 ---
 
@@ -185,3 +187,5 @@ Mobile-only
 ## Random on page load
 
 ---
+
+## Questions / queries?
