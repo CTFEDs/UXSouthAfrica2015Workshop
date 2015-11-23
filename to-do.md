@@ -10,7 +10,7 @@
 
 ## Justin
 
-- [ ] Add problem / pattern / principle / solution to presentation
-- [ ] Handout layouts for checklists (pattern, problem, principles, solution), headers for posters
-- [ ] Design pattern, problem, principles, solution for wall and handout to take away
-- [ ] Work on presentation [deck](./future-friendly-deck.md)
+- [x] Add problem / pattern / principle / solution to presentation
+- [x] Handout layouts for checklists (pattern, problem, principles, solution), headers for posters
+- [x] Design pattern, problem, principles, solution for wall and handout to take away
+- [x] Work on presentation [deck](./future-friendly-deck.md)

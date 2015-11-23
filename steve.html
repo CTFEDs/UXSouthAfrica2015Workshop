@@ -1,5 +1,5 @@
 <!DOCTYPE html><html><head><meta charset="utf-8"><style>body {
-  width: 60em;
+  width: 65em;
   border: 1px solid #ddd;
   outline: 1300px solid #fff;
   margin: 16px auto;
@@ -860,7 +860,10 @@ body .markdown-body
   float: left;
   margin: 0.3em 0 0.25em -1.6em;
   vertical-align: middle;
-}</style><title>steve</title></head><body><article class="markdown-body"><table>
+}</style><title>steve</title></head><body><article class="markdown-body">
+
+<h1>Future friendly workshop handout</h1>
+<table>
 <thead>
 <tr>
 <th>Pattern</th>
@@ -948,7 +951,7 @@ body .markdown-body
 <td>Over-reliance on grid systems</td>
 <td>Generic grids (Boostrap, Foundation, etc) are neither a good representation of a site's content nor its design.</td>
 <td>Consider content out layouts</td>
-<td>????</td>
+<td>Simplify your grid</td>
 </tr>
 <tr>
 <td>Modal/overlay</td>
@@ -959,8 +962,8 @@ body .markdown-body
 <tr>
 <td>Text over images</td>
 <td>Produces unexpected results if length is not ideal. Obscures images. Tricky with responsive design.</td>
+<td>Flow text around images. Do you actually need that image?</td>
 <td>Redesign image/text layout</td>
-<td></td>
 </tr>
 <tr>
 <td>Fixed positioning</td>
@@ -985,7 +988,7 @@ body .markdown-body
 <td>Pagination</td>
 <td>Large datasets can lead to confusion (where am I?).</td>
 <td>Only use when it is not possible to display all the data on a single page/screen or when the dataset is in some way ordered. Do not use when you don't want the user to pause for navigating to the next page.</td>
-<td>???</td>
+<td>Reconsider / redesign pagination controls.</td>
 </tr>
 <tr>
 <td>Infinite scrolling</td>
@@ -995,16 +998,22 @@ body .markdown-body
 </td>
 </tr>
 <tr>
+<td>Animation</td>
+<td>Obscure navigation interactions, annoying banner ads, Flash intros. Performance and bandwidth killers</td>
+<td>Micro animations can improve user experience, eg. communicating status, adding affordance, showing status.</td>
+<td>Use where appropriate.</td>
+</tr>
+<tr>
 <td>Forms</td>
-<td>???</td>
-<td>???</td>
-<td>???</td>
+<td>What element to use when. "Designed" inputs. Inappropriate inputs.</td>
+<td>Use appropriate inputs for desired user behaviour.</td>
+<td>Look at the forms you have designed and see if they can be improved.</td>
 </tr>
 <tr>
 <td>Login</td>
-<td>???</td>
-<td>???</td>
-<td>???</td>
+<td>forcing login. Social login. Which one did I use. What if one ceases to exist. Only Facebook / Twitter, etc.</td>
+<td>Consider specific use cases for login</td>
+<td>Evaluate and reconsider logins on your sites.</td>
 </tr>
 <tr>
 <td>Responsive Web Design</td>
