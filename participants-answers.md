@@ -49,5 +49,5 @@
 
 # Steve Barnett
 
-1.
-2.
+1. Templates for Blogger sites.
+2. Fufu, my Front-end Style Guide skeleton.
