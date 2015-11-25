@@ -38,17 +38,34 @@
 
 ---
 
-## *Diverge*: create choices
+## Identify Problems
+## and Patterns
+## for your stuff
+
+![](paper-roll.jpg)
+
+---
+
+### Problems or Patterns
+
+## Diverge: create choices
 ## Quantity over Quality
 
 ![](paper-roll.jpg)
 
 ---
 
-## *Converge*: make choices
-## Decide on the favourite, work on it as a group
+### Problems or Patterns
+
+## Converge: make choices
+## Dot voting
 
 ![](paper-roll.jpg)
+
+---
+
+## Your Pattern / Problem: 1 sentence
+## Your most-voted Solution: 1 sentence
 
 ---
 
@@ -59,3 +76,10 @@
 ## Swap with a buddy.
 
 ![](indexcards.jpg)
+
+---
+
+## Feedback
+
+### justin@justinslack.com
+### steve@naga.co.za
