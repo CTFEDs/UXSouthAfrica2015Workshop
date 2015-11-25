@@ -1,4 +1,4 @@
-# #FFUX
+# FF UX :fire:
 
 ^ How many do you give about your users?
 
