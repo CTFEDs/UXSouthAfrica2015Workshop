@@ -8,7 +8,7 @@ title: UX South Africa 2015 Workshop
 * [Future Friendly UX](future-friendly-deck.pdf) (PDF)
 * [Instruction to keep up on screen](instructions-to-keep-up-on-screen.pdf) (PDF)
 * [Pattern, Problem, Improvement, Workshop Activity: Handout](ppiw.html)
-* [Changes in the Tech landscape](changes.pdf) (PDF)
+* [Changes in the Tech landscape](print/changes.pdf) (PDF)
 
 ## Photos
 
