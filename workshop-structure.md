@@ -27,7 +27,7 @@ Problems, Patterns, Principles, Solutions.
 
 ## 2pm
 
-* **Gallery Walk**: walk around the room and write on the posters.
+* **Gallery Walk**: walk around the room and write on the posters (each one has some samples).
   * Problems and patterns from the Table Talk.
   * Future Friendly principles from Presentation.
 * **Summarise**: make summaries of the posters for your table. One person at your table will present to the room: your table's favourite thing from each poster.
@@ -42,17 +42,19 @@ Problems, Patterns, Principles, Solutions.
 
 ### Diverge
 
-* On your own, write down lots of ideas. Focus on **quantity** rather than **quality**.
+* Pick a pattern and, on your own, write down lots of ideas. Focus on **quantity** rather than **quality**.
 
 ## Break
-
-* Find a person at another table and tell them about your favourite idea.
 
 ## 4pm
 
 ### Converge
 
-* As a table, start narrowing down ideas. Vote for your favourite idea, and work on it together.
+* **Dote Vote**. Grab a pen and stand up.
+  * Move one seat to your left.
+  * Add a dot on your favourite idea.
+  * Repeat until you're back at your own seat.
+* **Table shout out**. Tell the room one about your pattern, and the solution with the most votes. Use one sentence for each.
 * What **Future Friendly Principles** are you using?
 
 ## Leaving
