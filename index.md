@@ -7,7 +7,7 @@ title: UX South Africa 2015 Workshop
 * [Workshop Structure WIP](workshop-structure-wip.html)
 * [Future Friendly UX](future-friendly-deck.pdf) (PDF)
 * [Instruction to keep up on screen](instructions-to-keep-up-on-screen.pdf) (PDF)
-* [Pattern, Problem, Improvement, Workshop Activity: Handout](ppiw.html)
+* [Pattern, Problem, Improvement, Workshop Activity: Handout](print/pattern-problem-principles-activity-handout.pdf) (PDF)
 * [Changes in the Tech landscape](print/changes.pdf) (PDF)
 
 ## Photos
