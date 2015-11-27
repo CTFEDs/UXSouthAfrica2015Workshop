@@ -3,7 +3,7 @@ layout: default
 title: UX South Africa 2015 Workshop
 ---
 
-* [Workshop Structure](workshop-structure/)
+* [Workshop Structure](workshop-structure.html)
 * [Workshop Structure WIP](workshop-structure-wip/)
 * [Future Friendly UX](/future-friendly-deck.pdf) (PDF)
 * [Instruction to keep up on screen](instructions-to-keep-up-on-screen.pdf) (PDF)
