@@ -1,40 +1,62 @@
-# Workshop Structure
+Problems, Patterns, Principles, Solutions.
 
-An Work-In-Progress document for the structure of the workshop.
-This is a list of ideas, not a list of [All The Things](http://i.imgur.com/6ILXd4r.jpg) we will do.
+## Connections
 
-Idea for general flow:
+* Identify your specific **Problems** and **Patterns**.
+* Make your own list of Future Friendly UX **Principles**.
+* Start sketching out **Solutions**.
 
-* attendees form smallish groups at tables;
-* each table makes a list of patterns;
-* each person picks a pattern and works through improving it;
-* each person presents to the table.
+## Warm up
 
-## Basic shape
+* What was the first thing you worked on?
+* What are we doing now that will need updating soon?
 
-1. What are Future Friendly principles and why should you care?
-* What are some common patterns and are they Future Friendly?
-* For the patterns that aren't, how can we make them Future Friendly?
+## Arriving
 
-## Things to keep in mind
+* **Turn and talk**: share your warm up answers. Write down other people's answers on sticky notes and take them back to your table.
 
-We salute [Sharon Bowman](http://bowperson.com/)'s [Training From The Back Of The Room](http://www.amazon.co.uk/Training-Back-Room-Aside-Learn-ebook/dp/B0062O7L7S/)
+## 1pm
 
-Behaviour + Concept / Skill = Learning Outcome
+* **Table talk**: on big bits of paper, write down changes in the tech landscape in the past few years. Guidelines will be up on the wall, to be revealed later.
+* **Presentation**: Future Friendly User Experience.
+  * About 15 minutes.
 
-1. **Movement** trumps splitting
-* **Talking** trumps listening
-* **Images** trump words
-* **Writing** trumps reading
-* **Shorter** trumps longer
-* **Different** trumps same
+## Break
 
-More things to remember:
+* **Discussion**: What's the most important Future Friendly principle?
 
-* Primacy-Recency principle
-* Content; activity; materials
-* Provide graphic organisers
-* Individual accountability
-* Table demos and presentations. Less pressure, more trust.
-* Collaboration over competition.
-* ROI
+## 2pm
+
+* **Gallery Walk**: walk around the room and write on the posters.
+  * Problems and patterns from the Table Talk.
+  * Future Friendly principles from Presentation.
+* **Summarise**: make summaries of the posters for your table. One person at your table will present to the room: your table's favourite thing from each poster.
+
+## Break
+
+* **Pair Teach-back**: find a partner and ask them one thing they learned so far. Write your partner's answer on a sticky note and put it on the Pair Teach-back poster.
+
+## 3pm-ish
+
+### Sketch your Future Friendly UX Solutions
+
+### Diverge
+
+* On your own, write down lots of ideas. Focus on **quantity** rather than **quality**.
+
+## Break
+
+* Find a person at another table and tell them about your favourite idea.
+
+## 4pm
+
+### Converge
+
+* As a table, start narrowing down ideas. Vote for your favourite idea, and work on it together.
+* What **Future Friendly Principles** are you using?
+
+## Leaving
+
+* **Card Exchange: SMART goal**: find a buddy. On the front of a card, write down a SMART goal. On the back of it, write down your contact details. Swap your card with your buddy's.
+* **Most Import Thing**: on the poster by the door, write down the most import thing you learned today.
+* **Handout**: pick up a copy of the Problems, Patterns, Principles, Solutions handout on your way out.
