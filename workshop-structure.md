@@ -1,3 +1,8 @@
+---
+layout: default
+title: UX South Africa 2015 Workshop
+---
+
 Problems, Patterns, Principles, Solutions.
 
 ## Connections

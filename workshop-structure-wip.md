@@ -1,3 +1,9 @@
+---
+layout: default
+title: UX South Africa 2015 Workshop
+---
+
+
 # Workshop Structure
 
 An Work-In-Progress document for the structure of the workshop.

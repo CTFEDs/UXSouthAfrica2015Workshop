@@ -1,0 +1,28 @@
+# Site settings
+title: UX South Africa 2015 Workshop
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://ctfeds.org" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+permalink: :title/
+
+navigation:
+ - title: UX South Africa 2015 Workshop
+   url: index.html
+
+exclude: [
+    'node_modules',
+    'bower_components',
+    'Gruntfile.js',
+    'package.json',
+    'bower.json',
+    'requirements.txt',
+    'Gemfile',
+    'Gemfile.lock',
+    'README.md',
+    'sass',
+    'js',
+    'coffee',
+    'env',
+    'tmp'
+]
